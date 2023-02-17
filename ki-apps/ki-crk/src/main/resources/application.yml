@@ -1,0 +1,7 @@
+server:
+  port: 9090
+ki0:
+  swagger:
+    enabled: true
+    title: 在线接口文档
+    base-package: com.ki0.controller

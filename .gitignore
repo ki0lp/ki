@@ -1,0 +1,3 @@
+# Project exclude paths
+/ki-apps/ki-crk/target/
+/ki-tools/ki-tools-swagger2/target/
